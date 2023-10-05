@@ -4,4 +4,4 @@ public class issue1 {
             System.out.println("i = " + i);
         }
     }
-}
+}issue1
